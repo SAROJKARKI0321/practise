@@ -11,6 +11,8 @@ public class OrderDto {
     }
 
     // getters and setters can be added later
+added a toString method and overrideen equals and hashCode method
+
 }
 
 
