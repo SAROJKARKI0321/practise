@@ -1,8 +1,8 @@
-<<<<<<< Updated upstream
 public class OrderDto {
     private String itemName;
     private int quantity;
     private double price;
+
 
     public OrderDto(String itemName, int quantity, double price) {
         this.itemName = itemName;
@@ -11,14 +11,11 @@ public class OrderDto {
 
     }
 
+
+
+
     // getters and setters can be added later
-method shouldn't be implemented (toString and equals)
+added a toString method and overrideen equals and hashCode method
 
 }
 
-
-
-
-
-
-
