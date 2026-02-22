@@ -1,6 +1,8 @@
 Hello.1st line is form local notes.
 added one line now.
 added OATUH2 SECURITY.
+ADDED JWT permission mapper
+
 
 
 
