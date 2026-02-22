@@ -6,7 +6,8 @@ public class OrderDto {
     public OrderDto(String itemName, int quantity, double price) {
         this.itemName = itemName;
         this.quantity = quantity;
-        this.price = price;
+        this.price = price;//price of one item
+
     }
 
     // getters and setters can be added later
