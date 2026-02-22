@@ -3,6 +3,7 @@ public class OrderDto {
     private int quantity;
     private double price;
 
+
     public OrderDto(String itemName, int quantity, double price) {
         this.itemName = itemName;
         this.quantity = quantity;
@@ -10,13 +11,11 @@ public class OrderDto {
 
     }
 
+
+
+
     // getters and setters can be added later
 added a toString method and overrideen equals and hashCode method
 
 }
 
-
-
-
-
-
