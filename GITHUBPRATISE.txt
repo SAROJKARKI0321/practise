@@ -1,8 +1,21 @@
-Hello.1st line is form local notes.
-added one line now.
-added OATUH2 SECURITY.
-Entity DTO created
-ADDED JWT permission mapper.
+<<<<<<< Updated upstream
+public class OrderDto {
+    private String itemName;
+    private int quantity;
+    private double price;
+
+    public OrderDto(String itemName, int quantity, double price) {
+        this.itemName = itemName;
+        this.quantity = quantity;
+        this.price = price;//price of one item
+
+    }
+
+    // getters and setters can be added later
+method shouldn't be implemented (toString and equals)
+
+}
+
 
 
 
